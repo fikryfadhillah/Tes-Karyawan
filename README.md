@@ -11,4 +11,7 @@ pada web yang dibuat terdapat field "masukkan nama" untuk menambahkan nama peser
 
 selanjutnya nama-nama yang sudah disimpan/dimasukkan akan ditampilkan dan dapat dilihat maksimal 10 nama/halaman ($max_data = 10;) dan akan ditampilkan pada halaman selanjutnya apabila melebihi 10 nama yang dimasukkan.
 
-pada masing-masing nama, dapat merubah satu persatu value dari kehadiran nama tersebut dengan nama "hadir" dan "tidak hadir"
+pada tombol pensil berwarna biru, user dapat merubah nama dari peserta/pegawai/staff denga nama baru, dan juga user dapat menetukan kehadiran atau ketidak hadiran peserta/pegawai/staff dengan menekan tombol (*radio) "Hadir" atau "Tidak Hadir", dan apabila nama yang dipilih memiliki value "Tidak Hadir" maka nama tersebut akan tercoret.
+
+adapun tombol X berwarna merah diperuntukan untuk user yang ingin menghapus data peserta/pegawai/staff yang sudah tersimpan, dengan tambahan Request Validation dimana akan muncul peringatan untuk menkonfirmasi user terhadap data yang akan dihapus
+request validation pada web yang dibuat ada pada fungsi tombol X atau hapus untuk menghapus peserta/pegawai/staff. apabila tombol terseebut  
