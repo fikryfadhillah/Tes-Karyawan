@@ -13,5 +13,4 @@ selanjutnya nama-nama yang sudah disimpan/dimasukkan akan ditampilkan dan dapat 
 
 pada tombol pensil berwarna biru, user dapat merubah nama dari peserta/pegawai/staff denga nama baru, dan juga user dapat menetukan kehadiran atau ketidak hadiran peserta/pegawai/staff dengan menekan tombol (*radio) "Hadir" atau "Tidak Hadir", dan apabila nama yang dipilih memiliki value "Tidak Hadir" maka nama tersebut akan tercoret.
 
-adapun tombol X berwarna merah diperuntukan untuk user yang ingin menghapus data peserta/pegawai/staff yang sudah tersimpan, dengan tambahan Request Validation dimana akan muncul peringatan untuk menkonfirmasi user terhadap data yang akan dihapus
-request validation pada web yang dibuat ada pada fungsi tombol X atau hapus untuk menghapus peserta/pegawai/staff. apabila tombol terseebut  
+adapun tombol X berwarna merah diperuntukan untuk user yang ingin menghapus data peserta/pegawai/staff yang sudah tersimpan, tombol tersebut ditambahkan _Request Validation_ dimana akan muncul peringatan untuk menkonfirmasi user terhadap data yang akan dihapus.
