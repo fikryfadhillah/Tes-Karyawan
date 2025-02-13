@@ -1,2 +1,2 @@
 # Tes-Karyawan
-Tes Karyawan - Software Developer (Laravel 11 &amp; MySQL)
+Tes Karyawan - Software Developer (Laravel 11 & xamp; MySQL)
